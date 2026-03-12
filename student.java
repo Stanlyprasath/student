@@ -22,7 +22,3 @@ public class StudentMarklist {
         System.out.println("Student Name: " + name);
         System.out.println("Total Marks: " + total);
         System.out.println("Average Mark: " +average);
-	if (total >50)
-		System.out.println("Pass")
-	else
-		System.out.println("Fail")
